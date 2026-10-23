@@ -23,3 +23,4 @@ elif opcion == 3:
     cantidadH = cantidad*35
     print("Agua de Horchata")
     print("precio a pagar: $",cantidadH)
+print("compre pronto")
